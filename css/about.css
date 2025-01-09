@@ -1,0 +1,41 @@
+#about {
+}
+
+a.mycv {
+    color: #9F94FF;
+    background-color: #000766;
+}
+
+.job-experience {
+    color: #9F94FF;
+    background-color: #00111A;
+}
+
+.job-experience .experience:not(:last-child) {
+    border-bottom: 1px solid #9F94FF;
+}
+
+.experience h4 {
+    display: block;
+}
+
+.experience ul {
+    list-style: none;
+    padding: 0;
+}
+
+.experience li {
+    display: block;
+}
+
+.hireable li:not(:first-child):before {
+  content: ", ";
+}
+
+.hireable ul {
+    list-style: none;
+}
+
+.hireable li {
+    display: inline;
+}

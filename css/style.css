@@ -1,0 +1,157 @@
+/* 
+Colors
+https://color.hailpixel.com/#883A46,24190F,DDC6B6,1F4220
+https://color.hailpixel.com/#1C1211,C39E9D,1E2557,602E84
+
+Logo: #ec2227
+Light Gray: #d0d2d3
+Dark Gray: #6d6e70
+Background: #fefdfd
+ */
+
+html,body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-width: 100%;
+  background-color: #fefdfd;
+  color: #3d3e40; 
+}
+
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+body {
+  font-family: 'DM Mono', serif;
+  font-style: normal;
+  font-weight: 300;
+  padding: 0;
+  width: 100%;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h2,h3,h4 {
+  font-weight: 200;
+}
+
+h3,h4 {
+  font-weight: 100;
+}
+
+a {
+}
+
+a:visited {
+}
+
+a:hover {
+}
+
+.navbar, footer {
+}
+
+.section-sep {
+  border-bottom: 2px dotted #ec2227;
+  width: 100%;
+}
+
+header {
+  position: fixed;
+  padding-bottom: 8px;
+  background: #fefdfd;
+  width: 100%;
+}
+
+.comp-name {
+  font-family: 'Saira', sans-serif;
+  color: #ec2227;
+  font-weight: 500;
+}
+
+.navbar {
+  height: 100%;
+  border-bottom: 2px dotted #ec2227;
+  margin-bottom: 2px;
+  background: #fefdfd;
+}   
+
+footer {
+  border-top: 2px dotted #ec2227;
+  margin-top: 2px;
+}
+
+.nav-item {
+  text-decoration: underline;
+  font-weight: 500;
+  text-decoration-color: #ec2227;
+}
+
+.nav-link:hover {
+}
+
+body {
+  padding: 0;
+  width: 100%;
+}
+
+#content {
+  padding-top: 60px;
+}
+
+a {
+}
+
+.anchor {
+  top: -120px;
+}
+
+.navbar, footer {
+  background: #fefdfd;
+}
+
+#navbarSupportedContent
+
+footer {
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li {
+  display: inline-block;
+}
+
+
+@media (max-width: 576px) {
+  p {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  p {
+    font-size: 24px;
+  }
+  body {
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  p {
+    font-size: 20px;
+  }
+  body {
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+  }
+}

@@ -1,0 +1,86 @@
+.background {
+    background-image: url('../img/oil-rig.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#landing>div, #landing>p {
+}
+
+
+#landing {
+  height: 600px;
+}
+
+
+#landing>div>h3>a:hover {
+}
+
+.anchor {
+  scroll-margin-top: 100px;
+}
+
+#contact {
+  height: 400px;
+}
+
+@media (max-width: 576px) {
+  #landing>h2 {
+    font-family: 'DM Mono', sans-serif;
+    font-size: 2em;
+    font-weight: 300;
+    color: #000000;
+  }
+  #landing>h1 {
+    font-family: 'Saira', sans-serif;
+    font-size: 4em;
+    color: #ec2227;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  #landing>h2 {
+    font-family: 'DM Mono', sans-serif;
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #000000;
+  }
+
+  #landing>h1 {
+    font-family: 'Saira', sans-serif;
+    font-size: 7em;
+    color: #ec2227;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  #landing>h2 {
+    font-family: 'DM Mono', sans-serif;
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #000000;
+  }
+  #landing>h1 {
+    font-family: 'Saira', sans-serif;
+    font-size: 9em;
+    color: #ec2227;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 992px) {
+  #landing>h2 {
+    font-family: 'DM Mono', sans-serif;
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #000000;
+  }
+  #landing>h1 {
+    font-family: 'Saira', sans-serif;
+    font-size: 12em;
+    color: #ec2227;
+    font-weight: 500;
+  }
+}
