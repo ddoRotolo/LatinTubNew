@@ -170,8 +170,8 @@
               de Ensenada de Barrag&aacute;n, Pcia de Buenos Aires. (a&ntilde;o
               2011)</li>
           </ul>
-          <img class="col-4" src="img/stockpipe01.png" alt="">
-          <img class="col-4" src="img/stockpipe01.png" alt="">
+          <img class="col-4" src="img/Stock_pipe02.png" alt="">
+          <img class="col-4" src="img/Stock_pipe03.png" alt="">
           <div class="col-8">
             <ul>
               <li>Estudios de adecuaci&oacute;n del muelle del ex-Arsenal Naval
