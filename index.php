@@ -15,30 +15,7 @@
       <div class="container">
         <div class="row text-justify">
           <p class="col-12 text-justify">
-          Dirigida por Daniel Sauthier como presidente y Alejandro Nicolich como director, 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          turpis eros, vehicula eget est nec, pharetra laoreet velit. Aenean
-          ornare, magna quis tristique dapibus, magna urna dignissim orci, ac
-          eleifend dolor libero elementum est. Aenean sit amet convallis
-          nisl, nec mattis sapien. Phasellus maximus bibendum est, vitae
-          </p>
-          <p class="col-12 text-justify">
-          Dirigida por Daniel Sauthier como presidente y Alejandro Nicolich como director, 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          turpis eros, vehicula eget est nec, pharetra laoreet velit. Aenean
-          ornare, magna quis tristique dapibus, magna urna dignissim orci, ac
-          eleifend dolor libero elementum est. Aenean sit amet convallis
-          nisl, nec mattis sapien. Phasellus maximus bibendum est, vitae
-          tristique tellus aliquam ac. Vivamus dictum, lorem a vulputate
-          dictum, odio massa pretium elit, nec hendrerit est lorem eu augue.
-          Vivamus sollicitudin eget augue sit amet viverra. Suspendisse
-          convallis pretium turpis, et maximus urna rhoncus dapibus. 
-          </p>
-          <p class="col-12 text-justify">
-          tristique tellus aliquam ac. Vivamus dictum, lorem a vulputate
-          dictum, odio massa pretium elit, nec hendrerit est lorem eu augue.
-          Vivamus sollicitudin eget augue sit amet viverra. Suspendisse
-          convallis pretium turpis, et maximus urna rhoncus dapibus. 
+			Latintub es una empresa de servicios de ingenieria, consultoria con mas de 20 años de experiencia en oil and gas
           </p>
         </div>
         <div class="anchor justify-content-center section-sep my-4 row" id="about">
@@ -100,7 +77,7 @@
                     role="tab" 
                     aria-controls="v-energy-tab"
                     aria-selected="true">
-              Organizacion de Empresa
+              Tuberia de Conduccion
             </button>
             <button class="nav-link" 
                     id="v-pills-tubing"
@@ -110,7 +87,7 @@
                     role="tab" 
                     aria-controls="v-energy-tab"
                     aria-selected="false">
-              Entrenamiento Especializado
+              Tuberia de pozos
             </button>
             <button class="nav-link" 
                     id="v-pills-oilAndGas"
@@ -120,7 +97,7 @@
                     role="tab" 
                     aria-controls="v-energy-tab"
                     aria-selected="false">
-              Logisticas y Compras
+              Operaciones de petroleo y gas
             </button>
           </div>
           <div class="tab-content col-8" id="v-expertsContent">
@@ -129,33 +106,41 @@
               role="tabpanel" 
               aria-labelledby="v-pills-linePipe" 
               tabindex="0">
-              <li>Organizacion y estructura de personal</li>
-              <li>Sistemas de Calidad: Evaluacion, Analisis y Diseno</li>
-              <li>Procesos internos</li>
-              <li>Manejo de riesgo, analisis de procesos y aseguramiento de calidad</li>
-              <li>Diseno de esquemas de manejo del conocimiento (Knowledge Management)</li>
-              <li>Estragia de ventas tecnicas</li>
-              <li>diseno de proposicion de valor</li>
-              <li>analisis e investigacion de clientes y planes de negocio</li>
+              <li>Ingieneria de ductos</li>
+              <li>Auditoria y certificacion de proyectos, obras y producto</li>
+              <li>Rehabilitacion de ductos</li>
+              <li>Operacion y mantenimiento de tuberias</li>
+              <li>Revision de ingieneria de proyectos</li>
+              <li>Estudios de integridad</li>
             </ul>
             <ul id="tubing" 
               class="tab-pane fade" 
               role="tabpanel" 
               aria-labelledby="v-pills-tubing" 
               tabindex="0">
-              <li>capciation y desarollo de personal</li>
-              <li>entrenamientos en productos tubulares, OCTG LinePipe, Conexiones especiales</li>
+              <li>Seleccion, especificacion de productos</li>
+              <li>Conexiones Premium - Soporte en fabricacion/roscado, mejora de procesos.</li>
+			  <li>Procedimientos de control</li>
+			  <li>Diseno de columnas tubulares de pozos</li>
+			  <li>Soporte, verificacion, chequeo</li>
+			  <li>Desarrollo de documentacion tecnica</li>
+			  <li>Analisis de falla y optimizacion de productos</li>
+			  <li>Inspeccion visual de productos tubulares</li>
+			  <li>Inspeccion y auditoria de fabricacion de producto y ensayos de certificacion</li>
             </ul>
             <ul id="oilAndGas" 
               class="tab-pane fade"
               role="tabpanel" 
               aria-labelledby="v-pills-oilAndGas" 
               tabindex="0">
-              <li>Evaluacion Proveedeors</li>
-              <li>Logistica, transporte nacional e internacional</li>
-              <li>Chartering</li>
-              <li>Operaciones de Puerto y contenedore</li>
+              <li>Servicios a campos petroleros</li>
+              <li>Diseno y seguimiento</li>
+              <li>Servicios de asistencia a operaciones de campo (instalacion de tuberias)</li>
+              <li>Supervision de armado de accesorios</li>
+			  <li>Roscados y apretados de conexiones</li>
+			  <li>Mejora de operaciones de produccion</li>
             </ul>
+          </div>
           </div>
           </div>
         </div>
